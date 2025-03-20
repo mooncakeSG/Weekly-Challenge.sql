@@ -1,9 +1,4 @@
--- Create a new script in MySQL Workbench
--- Author: Keawin Calvin Koesnel
--- Date: March 18, 2025
--- Description: Practice queries for employee and product data
 
-USE classicmodels; -- Assuming the database name is 'classicmodels'
 
 -- 1. Query to retrieve payment details
 SELECT checkNumber, paymentDate, amount
